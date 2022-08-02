@@ -58,8 +58,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 
 ***
 ### Exercícios 
-* [Subtópico 1](#subtopico1)
-* [Subtópico 1](#subtopico1)
+* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
+* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
 
 ### Material da aula 
 
