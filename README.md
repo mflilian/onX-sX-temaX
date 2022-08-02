@@ -1,6 +1,14 @@
 # Tema da Aula
 
 Turma Online X - Todas em Tech  | X-end | Semana X | 2022 | Professora X
+
+### Instruções
+Antes de começar, vamos organizar nosso setup.
+* Fork esse repositório 
+* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
+* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
+* [Add outras intrucoes caso necessario]
+
 ### Resumo
 O que veremos na aula de hoje?
 * [Tema1](#tema1)
@@ -62,4 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 - [Lorem Ipsum](https://www.lipsum.com/feed/html)
 
 
+<p align="center">
+Desenvolvido com :purple_heart:  
+</p>
 
