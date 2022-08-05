@@ -11,13 +11,13 @@ Depois de ter escolhido a branch main do repositório original no lado esquerdo,
 
 ![alt](https://assets.digitalocean.com/articles/eng_python/PullRequest/PullRequest.png)
 <br> <br>
-O GitHub vai lhe alertar de que é possível mesclar as duas branches porque não há código concorrente. Você deve adicionar um título, e um comentário descrevendo o seu PR. 
-DICAS: 
-1- Você pode seguir esse modelo para o título do seu PR: 
+O GitHub vai lhe alertar de que é possível mesclar as duas branches porque não há código concorrente. Você deve adicionar um título, e um comentário descrevendo o seu PR. <br> <br>
+DICAS: <br>
+1. Você pode seguir esse modelo para o título do seu PR: 
 ``` 
 Nome da Atividade - Seu nome. 
 ```
-2- Você pode seguir esse modelo para a descrição do seu PR: 
+2. Você pode seguir esse modelo para a descrição do seu PR: 
 ``` 
 O que?
 Resolução dos exercícios de lógica.
