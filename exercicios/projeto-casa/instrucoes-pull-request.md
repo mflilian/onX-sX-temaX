@@ -1,7 +1,7 @@
 # Como criar meu Pull Request? 🤔
 
 Olá, meninas! Bora fazer nosso PR? 
-O checklist do projetinho ta todo preenchido? Entao agora tá na hora de fazer nosso pull request para o repositório original.
+O checklist da atividade ta todo preenchido? Entao agora tá na hora de fazer nosso pull request para o repositório original.
 Você deverá navegar até o seu repositório onde você fez o fork e pressionar o botão “New pull request” no lado esquerdo da página. <br> <br>
 ![alt](https://assets.digitalocean.com/articles/eng_python/PullRequest/PRButton.png)
 
